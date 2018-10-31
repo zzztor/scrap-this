@@ -1,7 +1,7 @@
 {
   "name": "scrap-this",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tiny script to scrap with a simple configuration",
   "main": "index.js",
   "author": {
     "name": "zzztor",
